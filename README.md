@@ -1,4 +1,12 @@
-# "Learning Programming Languages with Code Challenges" Repository
+# Learning Programming Languages with Code Challenges
+
+## Programming Languages
+
+1. [Golang](https://golang.org/)
+2. [Rust](https://www.rust-lang.org/)
+3. [Crystal](https://crystal-lang.org/)
+4. [Kotlin](https://kotlinlang.org/)
+5. [Elixir](https://elixir-lang.org/)
 
 ## Challenges
 
